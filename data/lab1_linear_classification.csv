@@ -1,0 +1,21 @@
+Regularization,Max Iterations,Solver Type,Accuracy
+0.001,2500,lbfgs,54.12
+0.001,2500,liblinear,54.12
+0.001,2500,saga,54.12
+0.001,2500,newton-cg,54.12
+0.01,2500,lbfgs,54.12
+0.01,2500,liblinear,54.12
+0.01,2500,saga,54.12
+0.01,2500,newton-cg,54.12
+0.1,2500,lbfgs,54.12
+0.1,2500,liblinear,54.12
+0.1,2500,saga,54.12
+0.1,2500,newton-cg,54.12
+1.0,2500,lbfgs,53.85
+1.0,2500,liblinear,53.85
+1.0,2500,saga,53.85
+1.0,2500,newton-cg,53.85
+10.0,2500,lbfgs,53.57
+10.0,2500,liblinear,53.02
+10.0,2500,saga,53.02
+10.0,2500,newton-cg,53.02
